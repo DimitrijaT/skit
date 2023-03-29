@@ -1,5 +1,8 @@
 package skit.class02;
 
+import java.util.HashSet;
+import java.util.Set;
+
 public class Division {
 
     public int divide(int a, int b) {
