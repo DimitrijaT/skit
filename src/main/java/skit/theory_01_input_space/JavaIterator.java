@@ -1,4 +1,4 @@
-package skit.input_space_theory;
+package skit.theory_01_input_space;
 
 import java.util.ArrayList;
 import java.util.Iterator;
